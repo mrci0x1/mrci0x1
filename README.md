@@ -8,13 +8,10 @@
 <div align="center">
   <!-- GIF Banner -->
   <a href="https://mrci0x1.github.io/">
-    <img 
-      src="https://i.pinimg.com/originals/0b/cb/b6/0bcbb6cad5aabbae418170355f9b6114.gif"
+    <img src="https://i.pinimg.com/originals/0b/cb/b6/0bcbb6cad5aabbae418170355f9b6114.gif"
       style="
         border-radius: 18px;
-        width: 60%;
-        max-width: 350px;
-        margin-top: 10px;
+        width: 100%;
         box-shadow: 0 4px 14px rgba(255,0,0,0.6);
       "
     />
