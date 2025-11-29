@@ -1,37 +1,22 @@
 <p align="center">
-[<a href="[https://noob-ymuu.site](https://mrci0x1.github.io/)/">](https://mrci0x1.github.io/)
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBmejl5ZG43eHN1cHEyY2w0ZjY5dXIxdDJoMnNsNzB1YnhyZ2U4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hf94BspUpu0JW/giphy.gif"/>
-</a></p>
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Hack&size=33&duration=3800&pause=1000&color=ff0000&background=00000000&center=true&vCenter=true&width=1100&lines=%24+whoami+%3D+scriipt_k1d;%24+pentesters+%3D+overpaid+report+farmers;%24+redteam+%3D+300k%24+copy-paste+artists;%24+bughunters+%3D+0day+recyclers+for+bounties;%24+security+engineers+%3D+alert-triaging+wage+slaves;%24+expect+%3D+root+or+nothing;%24+money+%3D+only+motivation;%24+%22In+this+world%2C+the+strong+devour+the+weak.%22+-+Tokyo+Ghoul;%24+%22The+only+ones+allowed+to+win+are+those+prepared+to+give+up+everything.%22+-+Lelouch%2C+Code+Geass;%24+your+network+%3D+my+playground;%24+status+%3D+PWNED+FOR+PROFIT"
+    alt="Money & Root Only"
+  />
+</p>
 
 <div align="center">
-  <h3 align="center">How to be BROO H1K3R</h3>
-  
-```mermaid
-graph LR
-    A["Target Locked"] 
-    --> B("Recon → nmap -sC -sV -oA scan")
-    --> C("Bruteforce / Enum → dirsearch + ffuf + feroxbuster")
-    --> D("Exploit → sqlmap --batch --risk=3 --level=5")
-    --> E("Shell → nc -lvnp 4444 + reverse shell")
-    --> F("Privilege Escalation → linPEAS + sudo -l")
-    --> G["ROOTED — NEXT VICTIM LOADING"]
-    
-    style A fill:#000,stroke:#ff0000,stroke-width:5px,color:#ff0000
-    style G fill:#000,stroke:#ff0000,stroke-width:5px,color:#ff0000
-    style B fill:#111,stroke:#ff0000,color:#ff0000
-    style C fill:#111,stroke:#ff0000,color:#ff0000
-    style D fill:#111,stroke:#ff0000,color:#ff0000
-    style E fill:#111,stroke:#ff0000,color:#ff0000
-    style F fill:#111,stroke:#ff0000,color:#ff0000
-    linkStyle 0,1,2,3,4,5 stroke:#ff0000,stroke-width:6px
-```
+  <!-- GIF Banner -->
+  <a href="https://mrci0x1.github.io/">
+    <img 
+      src="https://i.pinimg.com/originals/0b/cb/b6/0bcbb6cad5aabbae418170355f9b6114.gif"
+      style="
+        border-radius: 18px;
+        width: 60%;
+        max-width: 350px;
+        margin-top: 10px;
+        box-shadow: 0 4px 14px rgba(255,0,0,0.6);
+      "
+    />
+  </a>
 </div>
-
-
-<p align="center"> 
-  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
-  <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox"> 
-  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
-  <img src="https://hackerone.com/mrci0x1?type=user" alt="hackerone"> 
-</p>
