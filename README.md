@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @mrci0x1
-- 👀 I’m interested in anything about security
-- 🌱 I’m currently learning Penetration tester
-- 💞️ I’m looking to collaborate on Bugboumty Automation made by go , bash or python
-- 📫 How to reach me @mrci0x1
-- ⚡ Fun fact: i don't one
+<p align="center">
+<a href="">
+  <img src=""/>
+</a></p>
 
-<!---
-mrci0x1/mrci0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+  <h3 align="center">How to be BROO H1K3R</h3>
+  
+```mermaid
+graph LR
+    A[("Target")] --> B[sqlmap --level=3 --risk=5]
+    B --> C[burp_suite --auto-scan]
+    C --> D[sleep]
+    D --> E[("Pwn3d!")]
+    style A fill:#F7E647,stroke:#000
+    style E fill:#F7E647,stroke:#000
+    linkStyle 0 stroke:#F7E647,stroke-width:2px
+    linkStyle 1 stroke:#F7E647,stroke-width:2px
+    linkStyle 2 stroke:#F7E647,stroke-width:2px
+```
+</div>
+
+
+<p align="center"> 
+  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
+  <img src="https://app.hackthebox.com/profile/748090" alt="HackTheBox"> 
+</p>
