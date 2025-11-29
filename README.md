@@ -17,3 +17,7 @@
     />
   </a>
 </div>
+<p align="center"> 
+  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
+  <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox"> 
+</p>
