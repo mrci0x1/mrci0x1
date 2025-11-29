@@ -24,5 +24,5 @@ graph LR
 
 <p align="center"> 
   <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
-  <img src="https://app.hackthebox.com/profile/748090" alt="HackTheBox"> 
+  <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox"> 
 </p>
