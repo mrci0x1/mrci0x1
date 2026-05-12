@@ -5,7 +5,6 @@ Hi, I'm @mrci0x1
 * Interested in Offensive Security & things I'm not supposed to touch.
 * Currently going deeper into Android Pentesting & Red Teaming.
 * I find bugs. Sometimes on purpose.
-* You know how to find me. Or you don't that's fine too.
 </div>
 
 <div>
