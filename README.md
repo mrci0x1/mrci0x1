@@ -1,19 +1,19 @@
-<p align="center">
-</p>
-
-<div align="center">
-  <!-- GIF Banner -->
-  <a href="https://mrci0x1.github.io/">
+<div>
     <img src="https://i.pinimg.com/originals/0b/cb/b6/0bcbb6cad5aabbae418170355f9b6114.gif"
-      style="
-        border-radius: 18px;
-        width: 100%;
-        box-shadow: 0 4px 14px rgba(255,0,0,0.6);
-      "
-    />
-  </a>
 </div>
-<p align="center"> 
-  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
+<div>
+
+Hi, I'm @mrci0x1 — Mohamed Mahmoud from Egypt 🇪🇬
+- I'm interested in Offensive Security and Bug Bounty Hunting.
+- I'm currently leveling up in Android Pentesting and Red Teaming
+</div>
+
+<div>
+
   <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox"> 
-</p>
+</div>
+
+## 🔗 Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed1mahmoud)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://mrci0x1.github.io)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mrcix)
