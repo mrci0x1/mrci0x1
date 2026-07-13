@@ -1,21 +1,24 @@
-<div>
+<div align="center">
 
-Hi, I'm @mrci0x1
+<img src="free.jpg" style="border-radius:50%" alt="mrci0x1" />
 
-* Interested in Offensive Security & things I'm not supposed to touch.
-* Currently going deeper into Android Pentesting & Red Teaming.
-* I find bugs. Sometimes on purpose.
+# mrci0x1
 </div>
 
-<div>
-    <img src="https://i.pinimg.com/originals/0b/cb/b6/0bcbb6cad5aabbae418170355f9b6114.gif"
+
+Offensive security professional focused on web, API, network, Active Directory, and Android mobile penetration testing. I like taking systems apart, figuring out how they actually work, and digging until I find what others miss.
+
+- 🏆 **HackTheBox** — active, writeups published
+- 🐛 **Bug Hunting** — Shodan recon, config exposure, sensitive data leaks
+- 📱 **Android** — Frida, ADB, Android Studio ↔ Kali setup
+- ✍️ **Writing** — [mrci0x1.github.io](https://mrci0x1.github.io)
+
+---
+
+<div align="center">
+
+### HackTheBox
+
+<img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox Badge" />
+
 </div>
-
-<div>
-
-  <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox"> 
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed1mahmoud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://mrci0x1.github.io)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mrcix)
