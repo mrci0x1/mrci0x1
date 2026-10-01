@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0d1117,1a1a2e,FF3C3C&height=280&section=header&text=%F0%9F%94%B4%20mrci0x1&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20%26%20Android%20Pentester%20%7C%20eWPTXv3%20%7C%20Bug%20Hunter&descAlignY=52&descAlign=50&descSize=18" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/184869040?v=4">
 </div>
 
 <br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3C3C&center=true&vCenter=true&width=520&lines=Web+%26+Android+Pentester;eWPTXv3+%E2%80%94+Passed+in+7hrs+out+of+18;CTF+Player+%7C+Bug+Hunter;HackTheBox+Active+Player;Shodan+Recon+%7C+Config+Exposure;No+pain%2C+no+gain.)](https://git.io/typing-svg)
-
-</div>
-
----
 
 <div align="center">
 
@@ -34,6 +26,7 @@
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="Android" title="Android">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28" alt="Android Studio" title="Android Studio">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux" title="Kali Linux">&nbsp;&nbsp;
       <img src="https://camo.githubusercontent.com/1185b08a1401b1da257c643e8e6378a69fe2e9c06a01950b732647ae95836a84/68747470733a2f2f66726964612e72652f66617669636f6e2e69636f" width="28" alt="Frida" title="Frida">
     </td>
   </tr>
@@ -152,5 +145,3 @@
 <br>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:FF3C3C,1a1a2e,0d1117&height=120&section=footer" width="100%">
