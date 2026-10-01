@@ -26,7 +26,6 @@
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="Android" title="Android">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28" alt="Android Studio" title="Android Studio">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux" title="Kali Linux">&nbsp;&nbsp;
       <img src="https://camo.githubusercontent.com/1185b08a1401b1da257c643e8e6378a69fe2e9c06a01950b732647ae95836a84/68747470733a2f2f66726964612e72652f66617669636f6e2e69636f" width="28" alt="Frida" title="Frida">
     </td>
   </tr>
@@ -42,10 +41,16 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>CTF & Platforms</b></td>
+    <td align="left" valign="middle"><b>CTF</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="28" alt="HackTheBox" title="HackTheBox">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/hackerone/494649" width="28" alt="HackerOne" title="HackerOne">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/hackerone/494649" width="28" alt="HackerOne" title="HackerOne">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>Platforms</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="Android" title="Android">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux" title="Kali Linux">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/parrotsecurity/15EDFF" width="28" alt="Parrot OS" title="Parrot OS">&nbsp;&nbsp;
       <img src="https://img.icons8.com/fluency/48/windows-11.png" width="28" alt="Windows" title="Windows">
