@@ -14,43 +14,42 @@
 
 <div align="center">
 
-## ⚔️ Focus Areas
+## Focus Areas
 
 </div>
 
 <table width="100%" cellspacing="0" cellpadding="10" align="center">
   <tr>
-    <td align="left" valign="middle" width="190"><b>🌐 Web Pentesting</b></td>
+    <td align="left" valign="middle" width="190"><b>Web Pentesting</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/portswigger/FF6633" width="28" alt="Burp Suite" title="Burp Suite">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/owasp/4a4a4a" width="28" alt="OWASP" title="OWASP">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28" alt="Wireshark" title="Wireshark">&nbsp;&nbsp;
       <img src="https://img.icons8.com/color/48/nmap.png" width="28" alt="Nmap" title="Nmap">&nbsp;&nbsp;
-      <img src="https://img.icons8.com/?size=48&id=9MJf0KNMNfvv&format=png" width="28" alt="SQLMap" title="SQLMap">&nbsp;&nbsp;
-      <img src="https://img.icons8.com/color/48/shodan.png" width="28" alt="Shodan" title="Shodan">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/shodan.svg" width="28" alt="Shodan" title="Shodan">
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>📱 Android Pentesting</b></td>
+    <td align="left" valign="middle"><b>Android Pentesting</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="Android" title="Android">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28" alt="Android Studio" title="Android Studio">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="28" alt="Kali Linux" title="Kali Linux">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/frida/FE7A16" width="28" alt="Frida" title="Frida">
+      <img src="https://camo.githubusercontent.com/1185b08a1401b1da257c643e8e6378a69fe2e9c06a01950b732647ae95836a84/68747470733a2f2f66726964612e72652f66617669636f6e2e69636f" width="28" alt="Frida" title="Frida">
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🔍 Recon & OSINT</b></td>
+    <td align="left" valign="middle"><b>Post-Exploitation</b></td>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" width="28" alt="Nuclei" title="Nuclei">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/main/static/subfinder-logo.png" width="28" alt="Subfinder" title="Subfinder">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/main/static/httpx-logo.png" width="28" alt="HTTPX" title="HTTPX">&nbsp;&nbsp;
-      <img src="https://img.icons8.com/color/48/google-logo.png" width="28" alt="Google Dorking" title="Google Dorking">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github/f0f6fc" width="28" alt="GitHub Recon" title="GitHub Recon">
+      <img src="https://cdn.simpleicons.org/hashcat/FF4700" width="28" alt="Hashcat" title="Hashcat">&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/hydra--v1.png" width="28" alt="Hydra" title="Hydra">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/BHCE_Vertical_RedField.svg" width="28" alt="BloodHound" title="BloodHound">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/gentilkiwi/mimikatz/master/mimikatz/mimikatz.ico" width="28" alt="Mimikatz" title="Mimikatz">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/peass-ng/PEASS-ng/master/linPEAS/images/peass.png" width="28" alt="PEASS-ng" title="PEASS-ng">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/Hackplayers/evil-winrm/master/resources/evil-winrm_logo.png" width="28" alt="Evil-WinRM" title="Evil-WinRM">
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🏆 CTF & Platforms</b></td>
+    <td align="left" valign="middle"><b>CTF & Platforms</b></td>
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="28" alt="HackTheBox" title="HackTheBox">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/hackerone/494649" width="28" alt="HackerOne" title="HackerOne">&nbsp;&nbsp;
@@ -60,15 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>🎓 Certs & Study</b></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/eWPTXv3-Certified-FF3C3C?style=flat-square&logo=ine&logoColor=white" alt="eWPTXv3">&nbsp;
-      <img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB">&nbsp;
-      <img src="https://img.shields.io/badge/INE-Student-003366?style=flat-square&logo=ine&logoColor=white" alt="INE">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle"><b>🛠️ Tooling & Dev</b></td>
+    <td align="left" valign="middle"><b>Tooling & Dev</b></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=bash,python,go,linux,androidstudio&theme=dark" alt="Tooling">
     </td>
@@ -79,7 +70,7 @@
 
 <div align="center">
 
-## 🎯 HackTheBox
+## HackTheBox
 
 <a href="https://app.hackthebox.com/users/748090">
   <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox Badge" />
@@ -91,7 +82,7 @@
 
 <div align="center">
 
-## 📊 Stats
+## Stats
 
 <table>
   <tr>
@@ -117,14 +108,14 @@
 
 <div align="center">
 
-## 📈 Activity
+## Activity
 
 </div>
 
 <table width="100%">
   <tr>
     <td width="60%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrci0x1&theme=react-dark&hide_border=true&line=FF3C3C&point=ff6b6b&area=true&area_color=FF3C3C" width="100%" alt="Activity Graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrci0x1&theme=react-dark&hide_border=true&line=FF3C3C&point=ff6b6b&area=true" width="100%" alt="Activity Graph">
     </td>
     <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrci0x1&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3C3C&text_color=c9d1d9" width="100%" alt="Top Languages">
@@ -136,16 +127,13 @@
 
 <div align="center">
 
-## 🔗 Connect
+## Connect
 
 <a href="https://mrci0x1.github.io">
-  <img src="https://mrci0x1.github.io/assets/img/favicons/favicon-96x96.png" width="36" style="border-radius:50%" alt="Blog">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/mrci0x1">
-  <img src="https://cdn.simpleicons.org/github/f0f6fc" width="36" alt="GitHub">
+  <img src="https://avatars.githubusercontent.com/u/184869040?v=4" width="36" style="border-radius:50%" alt="Blog">
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/mohamed1mahmoud">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="36" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@mrcix">
   <img src="https://cdn.simpleicons.org/medium/ffffff" width="36" alt="Medium">
