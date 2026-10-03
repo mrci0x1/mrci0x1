@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## Focus Areas
+### Focus Areas
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-## HackTheBox
+### HackTheBox
 
 <a href="https://app.hackthebox.com/users/748090">
   <img src="https://www.hackthebox.com/badge/image/748090" alt="HackTheBox Badge" />
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-## Stats
+### Stats
 
 <table>
   <tr>
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-## Connect
+### Connect
 
 <a href="https://mrci0x1.github.io">
   <img src="https://avatars.githubusercontent.com/u/184869040?v=4" width="36" style="border-radius:50%" alt="Blog">
