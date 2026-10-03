@@ -102,24 +102,8 @@
 
 </div>
 
----
-
 <div align="center">
 
-## Activity
-
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="60%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrci0x1&theme=react-dark&hide_border=true&line=FF3C3C&point=ff6b6b&area=true" width="100%" alt="Activity Graph">
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrci0x1&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3C3C&text_color=c9d1d9" width="100%" alt="Top Languages">
-    </td>
-  </tr>
-</table>
 
 ---
 
